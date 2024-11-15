@@ -1,0 +1,25 @@
+body{
+    background-color: darkblue;
+   
+}
+
+.font-playfair {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700; /* Ensures bold style */
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+video {
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.flag {
+    display: block;
+    margin: 0 auto;
+   
+}
